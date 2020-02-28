@@ -1,4 +1,4 @@
-(module SOIC-28_W7.5mm (layer F.Cu) (tedit 5E56E2CC)
+(module SOIC-28_W7.5mm (layer F.Cu) (tedit 5E5969AA)
   (attr smd)
   (fp_text reference REF** (at 0 -10.04) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -55,4 +55,9 @@
   (pad 26 smd oval (at 4.7 -5.715) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 27 smd oval (at 4.7 -6.985) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd oval (at 4.7 -8.255) (size 2 0.6) (layers F.Cu F.Paste F.Mask))
+  (model C:/Users/adam/Documents/GitHub/growbx-KiCAD-Lib/Lib/3D-Models/AB2_SO28_W.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.39 0.39 0.39))
+    (rotate (xyz 0 0 -90))
+  )
 )
