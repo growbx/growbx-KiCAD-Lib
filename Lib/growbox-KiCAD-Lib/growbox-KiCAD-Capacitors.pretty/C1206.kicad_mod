@@ -1,4 +1,4 @@
-(module C1206 (layer F.Cu) (tedit 57D73A6E)
+(module C1206 (layer F.Cu) (tedit 5E59809F)
   (fp_text reference REF** (at 0 4.699) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,11 +17,11 @@
   (fp_line (start 0 -0.381) (end 0 0.381) (layer Dwgs.User) (width 0.05))
   (fp_line (start 0.635 0.635) (end -0.635 0.635) (layer F.SilkS) (width 0.2))
   (fp_line (start -0.635 -0.635) (end 0.635 -0.635) (layer F.SilkS) (width 0.2))
-  (pad 1 smd roundrect (at -1.325 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25)
+  (pad 1 smd roundrect (at -1.325 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25)
     (solder_mask_margin 0.102))
-  (pad 2 smd roundrect (at 1.325 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25)
+  (pad 2 smd roundrect (at 1.325 0) (size 1.1 1.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25)
     (solder_mask_margin 0.102))
-  (model C:/Users/adam/Documents/GitHub/footprints/3D/STEP/CAPC-1206-T0.95-BN.stp
+  (model C:/Users/adam/Documents/GitHub/growbx-KiCAD-Lib/Lib/3D-Models/CAPC-1206-T0.95-BN.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
