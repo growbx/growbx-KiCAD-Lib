@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GRM155C81A105KA12D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155C81A105KA12-01.pdf
+$ENDCMP
+#
 $CMP GRM155R71E104KE14J
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E104KE14-01.pdf
 $ENDCMP
@@ -8,12 +12,12 @@ $CMP GRM188R60J476ME15D
 F https://psearch.en.murata.com/capacitor/product/GRM188R60J476ME15%23.pdf
 $ENDCMP
 #
-$CMP TEMPLATE_POLAR
-F *
+$CMP GRM188R61A106KE69J
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A106KE69-01.pdf
 $ENDCMP
 #
-$CMP TEMPLATE_copy
-F https://psearch.en.murata.com/capacitor/product/GRM188R60J476ME15%23.pdf
+$CMP TEMPLATE_POLAR
+F *
 $ENDCMP
 #
 #End Doc Library
