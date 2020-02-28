@@ -12,4 +12,8 @@ $CMP TEMPLATE_POLAR
 F *
 $ENDCMP
 #
+$CMP TEMPLATE_copy
+F https://psearch.en.murata.com/capacitor/product/GRM188R60J476ME15%23.pdf
+$ENDCMP
+#
 #End Doc Library
