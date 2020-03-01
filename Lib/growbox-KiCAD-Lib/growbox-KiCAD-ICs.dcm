@@ -8,6 +8,10 @@ $CMP MCP23017T-E_SO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
 $ENDCMP
 #
+$CMP MX25R8035FZUIL0
+F https://www.macronix.com/Lists/Datasheet/Attachments/7461/MX25R8035F,%20Wide%20Range,%208Mb,%20v1.6.pdf
+$ENDCMP
+#
 $CMP SHT35-DIS-B2.5KS
 F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHT3x_DIS.pdf
 $ENDCMP
