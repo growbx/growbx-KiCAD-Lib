@@ -4,6 +4,10 @@ $CMP ADS1015IDGSR
 F https://www.ti.com/lit/ds/symlink/ads1013.pdf
 $ENDCMP
 #
+$CMP AP7361C-33FGE-7
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP MCP23017T-E_SO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
 $ENDCMP
