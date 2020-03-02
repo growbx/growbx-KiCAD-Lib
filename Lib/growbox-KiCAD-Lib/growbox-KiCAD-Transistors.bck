@@ -4,4 +4,8 @@ $CMP BSH105
 F https://assets.nexperia.com/documents/data-sheet/BSH105.pdf
 $ENDCMP
 #
+$CMP DMP3125L-7
+F https://www.diodes.com/assets/Datasheets/DMP3125L.pdf
+$ENDCMP
+#
 #End Doc Library
