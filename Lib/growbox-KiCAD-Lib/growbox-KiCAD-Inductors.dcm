@@ -4,4 +4,8 @@ $CMP BLM15HG601SN1D
 F https://www.murata.com/en-global/products/productdata/8796740223006/ENFA0024.pdf
 $ENDCMP
 #
+$CMP MH1608-800Y
+F https://www.bourns.com/docs/Product-Datasheets/mh.pdf
+$ENDCMP
+#
 #End Doc Library
