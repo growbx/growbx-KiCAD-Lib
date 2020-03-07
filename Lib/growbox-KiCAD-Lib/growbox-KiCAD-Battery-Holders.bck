@@ -4,4 +4,8 @@ $CMP BK-912-TR
 F http://www.memoryprotectiondevices.com/datasheets/BK-912-datasheet.pdf
 $ENDCMP
 #
+$CMP BU2450SM-JJ-GTR
+F http://www.memoryprotectiondevices.com/datasheets/BU2450SM-JJ-GTR-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
