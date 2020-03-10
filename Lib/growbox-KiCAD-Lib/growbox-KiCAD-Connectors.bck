@@ -4,6 +4,14 @@ $CMP 1050170001
 F https://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
 $ENDCMP
 #
+$CMP 1755794
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1755794.pdf
+$ENDCMP
+#
+$CMP 1755817
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1755817.pdf
+$ENDCMP
+#
 $CMP 20021121-00010C4LF
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
 $ENDCMP
@@ -14,6 +22,10 @@ $ENDCMP
 #
 $CMP PPTC052LFBN-RC
 F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
+$ENDCMP
+#
+$CMP U.FL-R-SMT(01)
+F https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf
 $ENDCMP
 #
 #End Doc Library

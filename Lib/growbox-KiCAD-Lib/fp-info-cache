@@ -1,4 +1,4 @@
-833760061502459
+840132609148158
 AVR-KiCAD-Lib-Capacitors
 B32529C0223K189
 
@@ -51281,6 +51281,13 @@ BK-912
 0
 3
 2
+growbox-KiCAD-Battery-Holders
+BU2450SM-JJ-GTR
+
+
+0
+2
+2
 growbox-KiCAD-Capacitors
 C0402
 
@@ -51331,12 +51338,26 @@ growbox-KiCAD-Connectors
 12
 12
 growbox-KiCAD-Connectors
+HRS_U.FL-R-SMT
+
+
+0
+3
+3
+growbox-KiCAD-Connectors
 MOLEX_1050170001
 
 
 0
 13
 13
+growbox-KiCAD-Connectors
+Pin_Header_Straight_2x04_Pitch2.54mm
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
 growbox-KiCAD-Connectors
 Pin_Header_Straight_2x05_Pitch2.54mm
 Through hole straight pin header, 2x05, 2.54mm pitch, double rows
@@ -51464,11 +51485,18 @@ RN0804
 8
 8
 growbox-KiCAD-Special
+NucleoHeader1
+
+
+0
+0
+0
+growbox-KiCAD-Special
 STM32_NUCLEO_144
 
 
 0
-0
+5
 0
 growbox-KiCAD-Transistors
 SOT-23
