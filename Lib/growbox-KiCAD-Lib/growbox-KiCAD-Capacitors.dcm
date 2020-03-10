@@ -24,4 +24,12 @@ $CMP TEMPLATE_POLAR
 F *
 $ENDCMP
 #
+$CMP UUX1J101MNL1GS
+F https://www.nichicon.co.jp/english/products/pdfs/e-uux.pdf
+$ENDCMP
+#
+$CMP UWT1H470MCL1GS
+F https://www.nichicon.co.jp/english/products/pdfs/e-uux.pdf
+$ENDCMP
+#
 #End Doc Library
