@@ -24,6 +24,10 @@ $CMP PPTC052LFBN-RC
 F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
 $ENDCMP
 #
+$CMP TC2050-IDC-NL-FP
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf
+$ENDCMP
+#
 $CMP U.FL-R-SMT(01)
 F https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf
 $ENDCMP
