@@ -8,4 +8,8 @@ $CMP LTST-C194TBKT
 F http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF
 $ENDCMP
 #
+$CMP MSP3V3-M3_89A
+F http://www.vishay.com/docs/88486/msp3v3.pdf
+$ENDCMP
+#
 #End Doc Library

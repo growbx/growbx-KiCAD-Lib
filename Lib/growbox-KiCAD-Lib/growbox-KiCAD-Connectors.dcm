@@ -20,6 +20,10 @@ $CMP 20021121-00010C4LF
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
 $ENDCMP
 #
+$CMP JXD0-0001NL
+F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD0-0001NL/doc_part/JXD0-0001NL.pdf
+$ENDCMP
+#
 $CMP M20-9980445
 F https://cdn.harwin.com/pdfs/M20-998.pdf
 $ENDCMP
