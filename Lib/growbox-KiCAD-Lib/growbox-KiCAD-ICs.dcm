@@ -8,6 +8,10 @@ $CMP AP7361C-33FGE-7
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP MAX3073EESD+
+F https://datasheets.maximintegrated.com/en/ds/MAX3070E-MAX3079E.pdf
+$ENDCMP
+#
 $CMP MCP23017T-E_SO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
 $ENDCMP
