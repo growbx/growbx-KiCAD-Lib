@@ -175,6 +175,153 @@ X OUT 6 700 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# D36V50F12
+#
+DEF D36V50F12 M 0 40 Y Y 1 F N
+F0 "M" 0 50 50 H V C CNN
+F1 "D36V50F12" 50 350 50 H I C CNN
+F2 "growbox-KiCAD-Modules:D36V50Fx" -200 150 50 H I C CNN
+F3 "" -100 250 50 H I C CNN
+F4 "21.95" 100 400 50 H I C CNN "Cost QTY: 1"
+F5 "*" 200 500 50 H I C CNN "Cost QTY: 1000"
+F6 "*" 300 600 50 H I C CNN "Cost QTY: 2500"
+F7 "*" 400 700 50 H I C CNN "Cost QTY: 5000"
+F8 "*" 500 800 50 H I C CNN "Cost QTY: 10000"
+F9 "Pololu" 600 900 50 H I C CNN "MFR"
+F10 "D36V50F12" 700 1000 50 H I C CNN "MFR#"
+F11 "*" 800 1100 50 H I C CNN "Vendor"
+F12 "*" 900 1200 50 H I C CNN "Vendor #"
+F13 "AVR" 1000 1300 50 H I C CNN "Designer"
+F14 "14.02mm" 1100 1400 50 H I C CNN "Height"
+F15 "3/20/2019" 2200 2500 50 H I C CNN "Date Created"
+F16 "3/20/2019" 1200 1500 50 H I C CNN "Date Modified"
+F17 "Yes" 1300 1600 50 H I C CNN "Lead-Free ?"
+F18 "1" 1400 1700 50 H I C CNN "RoHS Levels"
+F19 "ThroughHole W/ Standoffs" 1500 1800 50 H I C CNN "Mounting"
+F20 "12" 1600 1900 50 H I C CNN "Pin Count #"
+F21 "Active" 1700 2000 50 H I C CNN "Status"
+F22 "*" 1800 2100 50 H I C CNN "Tolerance"
+F23 "DCDC Regulator Module" 1900 2200 50 H I C CNN "Type"
+F24 "50V In 12V OUT" 2000 2300 50 H I C CNN "Voltage"
+F25 "Proprietary PCB Module" 2100 2450 50 H I C CNN "Package"
+F26 "This powerful synchronous switching step-down (or buck) regulator takes an input voltage of up to 50 V and efficiently reduces it to 12 V. The board measures only 1″ × 1″ yet delivers typical maximum continuous output currents between 2.3 A and 6.5 A, depending on the input voltage, which makes it well suited for powering moderate to large loads. An optional enable input with a precise cutoff threshold can be used to put the regulator in a low-power state with a current draw of 10 µA to 20 µA per volt on VIN. The regulator also features reverse voltage protection and a power-good output that indicates when the regulator cannot adequately maintain the output voltage." 2400 2750 50 H I C CNN "Description"
+F27 "D36V50F12" 2300 2650 50 H V C CNN "_Value_"
+F28 "*" 2400 2750 50 H I C CNN "Management_ID"
+DRAW
+S 0 0 500 -1100 0 1 0 f
+X VOUT 1 700 -200 200 L 50 50 1 1 w
+X VRP 10 -200 -500 200 R 50 50 1 1 P
+X PG 11 700 -400 200 L 50 50 1 1 I
+X EN 12 -200 -700 200 R 50 50 1 1 I
+X VOUT 2 700 -100 200 L 50 50 1 1 w
+X GND 3 -200 -900 200 R 50 50 1 1 P
+X GND 4 -200 -1000 200 R 50 50 1 1 P
+X GND 5 700 -900 200 L 50 50 1 1 P
+X GND 6 700 -1000 200 L 50 50 1 1 P
+X VIN 7 -200 -100 200 R 50 50 1 1 W
+X VIN 8 -200 -200 200 R 50 50 1 1 W
+X VRP 9 -200 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# D36V50F3
+#
+DEF D36V50F3 M 0 40 Y Y 1 F N
+F0 "M" 0 50 50 H V C CNN
+F1 "D36V50F3" 50 350 50 H I C CNN
+F2 "growbox-KiCAD-Modules:D36V50Fx" -200 150 50 H I C CNN
+F3 "" -100 250 50 H I C CNN
+F4 "22.95" 100 400 50 H I C CNN "Cost QTY: 1"
+F5 "*" 200 500 50 H I C CNN "Cost QTY: 1000"
+F6 "*" 300 600 50 H I C CNN "Cost QTY: 2500"
+F7 "*" 400 700 50 H I C CNN "Cost QTY: 5000"
+F8 "*" 500 800 50 H I C CNN "Cost QTY: 10000"
+F9 "Pololu" 600 900 50 H I C CNN "MFR"
+F10 "D36V50F3" 700 1000 50 H I C CNN "MFR#"
+F11 "*" 800 1100 50 H I C CNN "Vendor"
+F12 "*" 900 1200 50 H I C CNN "Vendor #"
+F13 "AVR" 1000 1300 50 H I C CNN "Designer"
+F14 "14.02mm" 1100 1400 50 H I C CNN "Height"
+F15 "3/20/2019" 2200 2500 50 H I C CNN "Date Created"
+F16 "3/20/2019" 1200 1500 50 H I C CNN "Date Modified"
+F17 "Yes" 1300 1600 50 H I C CNN "Lead-Free ?"
+F18 "1" 1400 1700 50 H I C CNN "RoHS Levels"
+F19 "ThroughHole W/ Standoffs" 1500 1800 50 H I C CNN "Mounting"
+F20 "12" 1600 1900 50 H I C CNN "Pin Count #"
+F21 "Active" 1700 2000 50 H I C CNN "Status"
+F22 "*" 1800 2100 50 H I C CNN "Tolerance"
+F23 "DCDC Regulator Module" 1900 2200 50 H I C CNN "Type"
+F24 "50V In 3.3V OUT" 2000 2300 50 H I C CNN "Voltage"
+F25 "Proprietary PCB Module" 2100 2450 50 H I C CNN "Package"
+F26 "This powerful synchronous switching step-down (or buck) regulator takes an input voltage from 4.5 V to 50 V and efficiently reduces it to 3.3 V. The board measures only 1″ × 1″ yet delivers typical maximum continuous output currents between 4.5 A and 9.5 A, depending on the input voltage, which makes it well suited for powering moderate to large loads. An optional enable input with a precise cutoff threshold can be used to put the regulator in a low-power state with a current draw of 10 µA to 20 µA per volt on VIN. The regulator also features reverse voltage protection and a power-good output that indicates when the regulator cannot adequately maintain the output voltage." 2400 2750 50 H I C CNN "Description"
+F27 "D36V50F3" 2300 2650 50 H V C CNN "_Value_"
+F28 "*" 2400 2750 50 H I C CNN "Management_ID"
+DRAW
+S 0 0 500 -1100 0 1 0 f
+X VOUT 1 700 -200 200 L 50 50 1 1 w
+X VRP 10 -200 -500 200 R 50 50 1 1 P
+X PG 11 700 -400 200 L 50 50 1 1 I
+X EN 12 -200 -700 200 R 50 50 1 1 I
+X VOUT 2 700 -100 200 L 50 50 1 1 w
+X GND 3 -200 -900 200 R 50 50 1 1 P
+X GND 4 -200 -1000 200 R 50 50 1 1 P
+X GND 5 700 -900 200 L 50 50 1 1 P
+X GND 6 700 -1000 200 L 50 50 1 1 P
+X VIN 7 -200 -100 200 R 50 50 1 1 W
+X VIN 8 -200 -200 200 R 50 50 1 1 W
+X VRP 9 -200 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# D36V50F5
+#
+DEF D36V50F5 M 0 40 Y Y 1 F N
+F0 "M" 0 50 50 H V C CNN
+F1 "D36V50F5" 50 350 50 H I C CNN
+F2 "growbox-KiCAD-Modules:D36V50Fx" -200 150 50 H I C CNN
+F3 "" -100 250 50 H I C CNN
+F4 "19.95" 100 400 50 H I C CNN "Cost QTY: 1"
+F5 "*" 200 500 50 H I C CNN "Cost QTY: 1000"
+F6 "*" 300 600 50 H I C CNN "Cost QTY: 2500"
+F7 "*" 400 700 50 H I C CNN "Cost QTY: 5000"
+F8 "*" 500 800 50 H I C CNN "Cost QTY: 10000"
+F9 "Pololu" 600 900 50 H I C CNN "MFR"
+F10 "D36V50F5" 700 1000 50 H I C CNN "MFR#"
+F11 "*" 800 1100 50 H I C CNN "Vendor"
+F12 "*" 900 1200 50 H I C CNN "Vendor #"
+F13 "AVR" 1000 1300 50 H I C CNN "Designer"
+F14 "14.02mm" 1100 1400 50 H I C CNN "Height"
+F15 "3/20/2019" 2200 2500 50 H I C CNN "Date Created"
+F16 "3/20/2019" 1200 1500 50 H I C CNN "Date Modified"
+F17 "Yes" 1300 1600 50 H I C CNN "Lead-Free ?"
+F18 "1" 1400 1700 50 H I C CNN "RoHS Levels"
+F19 "ThroughHole W/ Standoffs" 1500 1800 50 H I C CNN "Mounting"
+F20 "12" 1600 1900 50 H I C CNN "Pin Count #"
+F21 "Active" 1700 2000 50 H I C CNN "Status"
+F22 "*" 1800 2100 50 H I C CNN "Tolerance"
+F23 "DCDC Regulator Module" 1900 2200 50 H I C CNN "Type"
+F24 "50V In 5V OUT" 2000 2300 50 H I C CNN "Voltage"
+F25 "Proprietary PCB Module" 2100 2450 50 H I C CNN "Package"
+F26 "This powerful synchronous switching step-down (or buck) regulator takes an input voltage of up to 50 V and efficiently reduces it to 5 V. The board measures only 1″ × 1″ yet delivers typical maximum continuous output currents between 3.5 A and 8 A, depending on the input voltage, which makes it well suited for powering moderate to large loads. An optional enable input with a precise cutoff threshold can be used to put the regulator in a low-power state with a current draw of 10 µA to 20 µA per volt on VIN. The regulator also features reverse voltage protection and a power-good output that indicates when the regulator cannot adequately maintain the output voltage." 2400 2750 50 H I C CNN "Description"
+F27 "D36V50F5" 2300 2650 50 H V C CNN "_Value_"
+F28 "*" 2400 2750 50 H I C CNN "Management_ID"
+DRAW
+S 0 0 500 -1100 0 1 0 f
+X VOUT 1 700 -200 200 L 50 50 1 1 w
+X VRP 10 -200 -500 200 R 50 50 1 1 P
+X PG 11 700 -400 200 L 50 50 1 1 I
+X EN 12 -200 -700 200 R 50 50 1 1 I
+X VOUT 2 700 -100 200 L 50 50 1 1 w
+X GND 3 -200 -900 200 R 50 50 1 1 P
+X GND 4 -200 -1000 200 R 50 50 1 1 P
+X GND 5 700 -900 200 L 50 50 1 1 P
+X GND 6 700 -1000 200 L 50 50 1 1 P
+X VIN 7 -200 -100 200 R 50 50 1 1 W
+X VIN 8 -200 -200 200 R 50 50 1 1 W
+X VRP 9 -200 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # MGM210P022JIA2R
 #
 DEF MGM210P022JIA2R M 0 40 Y Y 1 F N

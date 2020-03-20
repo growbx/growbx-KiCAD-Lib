@@ -16,6 +16,18 @@ $CMP D36V28F5
 F https://www.pololu.com/product-info-merged/3781
 $ENDCMP
 #
+$CMP D36V50F12
+F https://www.pololu.com/file/0J1732/d36v50fx-step-down-voltage-regulator-dimensions.pdf
+$ENDCMP
+#
+$CMP D36V50F3
+F https://www.pololu.com/file/0J1732/d36v50fx-step-down-voltage-regulator-dimensions.pdf
+$ENDCMP
+#
+$CMP D36V50F5
+F https://www.pololu.com/file/0J1732/d36v50fx-step-down-voltage-regulator-dimensions.pdf
+$ENDCMP
+#
 $CMP MGM210P022JIA2R
 F https://www.silabs.com/documents/public/data-sheets/mgm210p-datasheet.pdf
 $ENDCMP
