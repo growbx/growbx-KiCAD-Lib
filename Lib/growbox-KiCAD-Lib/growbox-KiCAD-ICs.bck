@@ -24,6 +24,10 @@ $CMP SHT35-DIS-B2.5KS
 F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHT3x_DIS.pdf
 $ENDCMP
 #
+$CMP TCA9546APWR
+F https://www.ti.com/lit/ds/symlink/tca9546a.pdf
+$ENDCMP
+#
 $CMP TLC59108IPWR
 F https://www.ti.com/lit/ds/symlink/tlc59108.pdf
 $ENDCMP

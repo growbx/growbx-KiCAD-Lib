@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP APHBM2012SURKCGKC
+F http://www.kingbrightusa.com/images/catalog/SPEC/APHBM2012SURKCGKC.pdf
+$ENDCMP
+#
 $CMP BAT20JFILM
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/81/a4/1f/0e/ca/8c/47/ba/CD00012201/files/CD00012201.pdf/jcr:content/translations/en.CD00012201.pdf
+$ENDCMP
+#
+$CMP DF206ST-G
+F https://www.comchiptech.com/admin/files/product/20190215095655.pdf
 $ENDCMP
 #
 $CMP LTST-C194TBKT
@@ -10,6 +18,10 @@ $ENDCMP
 #
 $CMP MSP3V3-M3_89A
 F http://www.vishay.com/docs/88486/msp3v3.pdf
+$ENDCMP
+#
+$CMP SS1H9-E3_61T
+F http://www.vishay.com/docs/88747/ss1h9.pdf
 $ENDCMP
 #
 #End Doc Library
