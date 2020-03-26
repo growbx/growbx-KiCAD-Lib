@@ -20,6 +20,14 @@ $CMP 20021121-00010C4LF
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
 $ENDCMP
 #
+$CMP 796644-4
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=796644&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP ESQ-102-34-L-D
+F http://suddendocs.samtec.com/catalog_english/esq_th.pdf
+$ENDCMP
+#
 $CMP ESQ-120-34-T-D
 F http://suddendocs.samtec.com/catalog_english/esq_th.pdf
 $ENDCMP
