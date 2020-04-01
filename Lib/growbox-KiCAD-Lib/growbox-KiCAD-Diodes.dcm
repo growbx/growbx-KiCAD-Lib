@@ -4,6 +4,10 @@ $CMP APHBM2012SURKCGKC
 F http://www.kingbrightusa.com/images/catalog/SPEC/APHBM2012SURKCGKC.pdf
 $ENDCMP
 #
+$CMP B240A-13-F
+F https://www.diodes.com/assets/Datasheets/ds13004.pdf
+$ENDCMP
+#
 $CMP BAT20JFILM
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/81/a4/1f/0e/ca/8c/47/ba/CD00012201/files/CD00012201.pdf/jcr:content/translations/en.CD00012201.pdf
 $ENDCMP

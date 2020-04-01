@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74ACT16244DGGR
+F https://www.ti.com/lit/ds/symlink/74act16244.pdf
+$ENDCMP
+#
 $CMP ADS1015IDGSR
 F https://www.ti.com/lit/ds/symlink/ads1013.pdf
+$ENDCMP
+#
+$CMP AMM-2742-T-R
+F http://www.puiaudio.com/pdf/AMM-2742-T-R.pdf
 $ENDCMP
 #
 $CMP AP7361C-33FGE-7
@@ -20,8 +28,20 @@ $CMP MX25R8035FZUIL0
 F https://www.macronix.com/Lists/Datasheet/Attachments/7461/MX25R8035F,%20Wide%20Range,%208Mb,%20v1.6.pdf
 $ENDCMP
 #
+$CMP OPT3001DNPR
+F https://www.ti.com/lit/ds/symlink/opt3001.pdf
+$ENDCMP
+#
 $CMP SHT35-DIS-B2.5KS
 F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHT3x_DIS.pdf
+$ENDCMP
+#
+$CMP SN74AHCT125RGYR
+F https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf
+$ENDCMP
+#
+$CMP SN74HC244PWR
+F https://www.ti.com/lit/ds/symlink/sn74hc244.pdf
 $ENDCMP
 #
 $CMP TCA9546APWR
@@ -30,6 +50,14 @@ $ENDCMP
 #
 $CMP TLC59108IPWR
 F https://www.ti.com/lit/ds/symlink/tlc59108.pdf
+$ENDCMP
+#
+$CMP TLV70220PDBVR
+F https://www.ti.com/lit/ds/symlink/tlv702.pdf
+$ENDCMP
+#
+$CMP ZXGD3009E6TA
+F https://www.diodes.com/assets/Datasheets/ZXGD3009E6.pdf
 $ENDCMP
 #
 #End Doc Library

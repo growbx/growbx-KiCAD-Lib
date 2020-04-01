@@ -1,0 +1,8 @@
+(module AMM-2742-T-R (layer F.Cu) (tedit 5E828B51)
+  (fp_text reference REF** (at -1.15 -3.2) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value AMM-2742-T-R (at 0 3.65) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
