@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C0805C104M5RACTU
+F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
 $CMP GRM155C81A105KA12D
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155C81A105KA12-01.pdf
 $ENDCMP
@@ -18,6 +22,14 @@ $ENDCMP
 #
 $CMP GRM188R61A106KE69J
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A106KE69-01.pdf
+$ENDCMP
+#
+$CMP GRM21BD70J226ME44L
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BD70J226ME44-01.pdf
+$ENDCMP
+#
+$CMP GRM31CR71H475KA12L
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
 $ENDCMP
 #
 $CMP TEMPLATE_POLAR

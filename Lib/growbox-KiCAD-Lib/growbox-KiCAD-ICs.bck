@@ -56,6 +56,10 @@ $CMP TLV70220PDBVR
 F https://www.ti.com/lit/ds/symlink/tlv702.pdf
 $ENDCMP
 #
+$CMP TPS560430XDBVR
+F https://www.ti.com/lit/ds/symlink/tps560430.pdf
+$ENDCMP
+#
 $CMP ZXGD3009E6TA
 F https://www.diodes.com/assets/Datasheets/ZXGD3009E6.pdf
 $ENDCMP
