@@ -1,4 +1,4 @@
-(module ESQ-102-34-L-D (layer F.Cu) (tedit 5E8BAEBD)
+(module ESQ-102-34-L-D (layer F.Cu) (tedit 5E93CAF1)
   (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x02 2.54mm double row")
   (fp_text reference REF** (at -0.4 -3.8) (layer F.SilkS)
@@ -32,7 +32,7 @@
   (pad 2 thru_hole oval (at 1.27 -1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -1.27 -1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (model C:/Users/adam/Documents/GitHub/growbx-KiCAD-Lib/Lib/3D-Models/ESQ-102-34-L-D.stp
-    (offset (xyz 1.27 -1.27 7.625))
+    (offset (xyz 0 0 7.625))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

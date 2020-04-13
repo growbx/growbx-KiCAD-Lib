@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ABS210-13
+F https://www.comchiptech.com/admin/files/product/20190215095655.pdf
+$ENDCMP
+#
 $CMP APHBM2012SURKCGKC
 F http://www.kingbrightusa.com/images/catalog/SPEC/APHBM2012SURKCGKC.pdf
 $ENDCMP
