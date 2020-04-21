@@ -4,12 +4,20 @@ $CMP C0805C104M5RACTU
 F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
 $ENDCMP
 #
+$CMP C0805C155K9PACTU
+F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
 $CMP GRM155C81A105KA12D
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155C81A105KA12-01.pdf
 $ENDCMP
 #
 $CMP GRM155R61A475MEAAD
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61A475MEAA-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71A224KE01D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71A224KE01-01.pdf
 $ENDCMP
 #
 $CMP GRM155R71E104KE14J

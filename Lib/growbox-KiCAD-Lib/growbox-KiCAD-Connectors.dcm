@@ -24,11 +24,23 @@ $CMP 1755817
 F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1755817.pdf
 $ENDCMP
 #
+$CMP 1843101
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1843091.pdf
+$ENDCMP
+#
 $CMP 20021121-00010C4LF
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
 $ENDCMP
 #
+$CMP 284061-5
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=284061&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
 $CMP 796644-4
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=796644&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP 796644-5
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=796644&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
 #

@@ -16,6 +16,10 @@ $CMP AP7361C-33FGE-7
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP BQ32000DR
+F https://www.ti.com/lit/ds/symlink/bq32000.pdf
+$ENDCMP
+#
 $CMP MAX3073EESD+
 F https://datasheets.maximintegrated.com/en/ds/MAX3070E-MAX3079E.pdf
 $ENDCMP
@@ -30,6 +34,10 @@ $ENDCMP
 #
 $CMP OPT3001DNPR
 F https://www.ti.com/lit/ds/symlink/opt3001.pdf
+$ENDCMP
+#
+$CMP PYD1588
+F https://www.excelitas.com/file-download/download/public/66911?filename=PYD%201598%20Low-Power%20DigiPyro%20datasheet.pdf
 $ENDCMP
 #
 $CMP SHT35-DIS-B2.5KS
