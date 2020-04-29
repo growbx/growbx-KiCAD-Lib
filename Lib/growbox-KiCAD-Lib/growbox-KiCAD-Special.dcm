@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 36103166S
+F https://www.we-online.de/katalog/datasheet/36103166S.pdf
+$ENDCMP
+#
 $CMP LPA-C041301S-4
 F https://www.lumex.com/spec/LPA-C041301S-X.pdf
 $ENDCMP

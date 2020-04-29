@@ -24,8 +24,20 @@ $CMP MSP3V3-M3_89A
 F http://www.vishay.com/docs/88486/msp3v3.pdf
 $ENDCMP
 #
+$CMP SMAJ30CA
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SMDJ15CA
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smdj_datasheet.pdf.pdf
+$ENDCMP
+#
 $CMP SS1H9-E3_61T
 F http://www.vishay.com/docs/88747/ss1h9.pdf
+$ENDCMP
+#
+$CMP TVS0500DRVR
+F https://www.ti.com/lit/ds/symlink/tvs0500.pdf
 $ENDCMP
 #
 #End Doc Library
