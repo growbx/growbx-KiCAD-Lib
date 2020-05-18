@@ -60,7 +60,19 @@ $CMP M20-9980445
 F https://cdn.harwin.com/pdfs/M20-998.pdf
 $ENDCMP
 #
+$CMP PPPC061LFBN-RC
+F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
+$ENDCMP
+#
 $CMP PPTC052LFBN-RC
+F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
+$ENDCMP
+#
+$CMP PPTC081LFBN-RC
+F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
+$ENDCMP
+#
+$CMP PPTC101LFBN-RC
 F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
 $ENDCMP
 #

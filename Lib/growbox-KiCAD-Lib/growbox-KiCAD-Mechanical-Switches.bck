@@ -8,6 +8,10 @@ $CMP CT10-1530-G1
 F https://www.cotorelay.com/wp-content/uploads/2014/09/CotoClassic-CT10-Datasheet.pdf
 $ENDCMP
 #
+$CMP CVS-02TB
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf
+$ENDCMP
+#
 $CMP CVS-04TB
 F https://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf
 $ENDCMP

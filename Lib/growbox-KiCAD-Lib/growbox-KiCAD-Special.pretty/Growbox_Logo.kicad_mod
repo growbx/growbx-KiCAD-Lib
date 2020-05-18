@@ -1,0 +1,8 @@
+(module Growbox_Logo (layer F.Cu) (tedit 5EAB9191)
+  (fp_text reference REF** (at -3.65 -9.65) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Growbox_Logo (at -3.65 -10.65) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

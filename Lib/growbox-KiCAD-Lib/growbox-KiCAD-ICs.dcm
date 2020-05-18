@@ -52,6 +52,14 @@ $CMP SN74HC244PWR
 F https://www.ti.com/lit/ds/symlink/sn74hc244.pdf
 $ENDCMP
 #
+$CMP STM32L052K8T6
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/dc/d6/6d/24/86/2a/40/d3/DM00108217.pdf/files/DM00108217.pdf/jcr:content/translations/en.DM00108217.pdf
+$ENDCMP
+#
+$CMP STM32L053C8T6
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/8a/f4/9d/d7/61/1b/46/b4/DM00105960.pdf/files/DM00105960.pdf/jcr:content/translations/en.DM00105960.pdf
+$ENDCMP
+#
 $CMP TCA9546APWR
 F https://www.ti.com/lit/ds/symlink/tca9546a.pdf
 $ENDCMP
