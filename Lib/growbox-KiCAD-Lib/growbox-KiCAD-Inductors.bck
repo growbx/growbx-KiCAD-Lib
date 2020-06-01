@@ -8,6 +8,10 @@ $CMP MH1608-800Y
 F https://www.bourns.com/docs/Product-Datasheets/mh.pdf
 $ENDCMP
 #
+$CMP MH2029-300Y
+F https://www.bourns.com/docs/Product-Datasheets/mh.pdf
+$ENDCMP
+#
 $CMP SDR0403-120ML
 F https://www.bourns.com/docs/Product-Datasheets/sdr0403.pdf
 $ENDCMP
