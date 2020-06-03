@@ -36,6 +36,14 @@ $CMP 284061-5
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=284061&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
 #
+$CMP 5033981892
+F https://www.molex.com/pdm_docs/sd/5033981892_sd.pdf
+$ENDCMP
+#
+$CMP 5120
+F http://www.keyelco.com/product-pdf.cfm?p=1343
+$ENDCMP
+#
 $CMP 796644-4
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=796644&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
