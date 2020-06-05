@@ -24,11 +24,23 @@ $CMP RC0402FR-0722K1L
 F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
 $ENDCMP
 #
+$CMP RC0402FR-072KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
 $CMP RC0402FR-07360RL
 F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
 $ENDCMP
 #
+$CMP RC0402FR-073K74L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
 $CMP RC0402FR-07412KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07487RL
 F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
 $ENDCMP
 #
@@ -42,6 +54,14 @@ $ENDCMP
 #
 $CMP RC0603FR-0751KL
 F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RT0402FRE071KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP TEMPLATE_ALT_SYMBOL_copy
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_11.pdf
 $ENDCMP
 #
 #End Doc Library

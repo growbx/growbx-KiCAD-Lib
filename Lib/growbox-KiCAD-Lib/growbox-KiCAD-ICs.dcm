@@ -16,8 +16,20 @@ $CMP AP7361C-33FGE-7
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP BQ24210DQCT
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24210
+$ENDCMP
+#
 $CMP BQ32000DR
 F https://www.ti.com/lit/ds/symlink/bq32000.pdf
+$ENDCMP
+#
+$CMP LTC2941CDCB-1#TRMPBF
+F https://www.analog.com/media/en/technical-documentation/data-sheets/29411f.pdf
+$ENDCMP
+#
+$CMP LTC4150CMS#PBF
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4150fc.pdf
 $ENDCMP
 #
 $CMP MAX3073EESD+
