@@ -28,6 +28,10 @@ $CMP D36V50F5
 F https://www.pololu.com/file/0J1732/d36v50fx-step-down-voltage-regulator-dimensions.pdf
 $ENDCMP
 #
+$CMP MAXM15463AMB+
+F https://media.digikey.com/pdf/Data%20Sheets/Maxim%20PDFs/MAXM15462-64_Rev4_10-26-18.pdf
+$ENDCMP
+#
 $CMP MGM210P022JIA2R
 F https://www.silabs.com/documents/public/data-sheets/mgm210p-datasheet.pdf
 $ENDCMP

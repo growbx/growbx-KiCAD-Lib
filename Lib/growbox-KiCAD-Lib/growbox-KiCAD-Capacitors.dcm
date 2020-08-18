@@ -1,11 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C0402C470K5GACTU
+F https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf
+$ENDCMP
+#
 $CMP C0805C104M5RACTU
 F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
 $ENDCMP
 #
 $CMP C0805C155K9PACTU
 F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
+$CMP C1206C106K9PACTU
+F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
+$CMP CC0805MKX5R5BB476
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_26.pdf
+$ENDCMP
+#
+$CMP CC1206KKX7R0BB105
+F https://www.yageo.com/upload/media/product/products/datasheet/mlcc/UPY-NP0X7R_MV_100-to-630V_21.pdf
 $ENDCMP
 #
 $CMP GRM155C81A105KA12D
@@ -18,6 +34,10 @@ $ENDCMP
 #
 $CMP GRM155R71A224KE01D
 F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71A224KE01-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71A474KE01D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71A474KE01-01.pdf
 $ENDCMP
 #
 $CMP GRM155R71E104KE14J
