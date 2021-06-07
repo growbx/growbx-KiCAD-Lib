@@ -36,6 +36,10 @@ $CMP MGM210P022JIA2R
 F https://www.silabs.com/documents/public/data-sheets/mgm210p-datasheet.pdf
 $ENDCMP
 #
+$CMP MGM220PC22HNA
+F https://www.silabs.com/documents/public/data-sheets/mgm210p-datasheet.pdf
+$ENDCMP
+#
 $CMP RAK3172(H)
 F https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet/#description
 $ENDCMP
