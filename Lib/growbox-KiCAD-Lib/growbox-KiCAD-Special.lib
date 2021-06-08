@@ -250,11 +250,11 @@ S 0 0 500 -500 0 1 0 f
 ENDDRAW
 ENDDEF
 #
-# Feather-Generic
+# Generic_MCU_Layout
 #
-DEF Feather-Generic U 0 40 Y Y 1 F N
+DEF Generic_MCU_Layout U 0 40 Y Y 1 F N
 F0 "U" 75 200 50 H V C CNN
-F1 "Feather-Generic" 475 -1725 50 H V C CNB
+F1 "Generic_MCU_Layout" 475 -1725 50 H V C CNB
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
