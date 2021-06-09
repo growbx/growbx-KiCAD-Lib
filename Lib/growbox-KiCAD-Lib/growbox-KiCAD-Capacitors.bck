@@ -4,6 +4,10 @@ $CMP C0402C470K5GACTU
 F https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf
 $ENDCMP
 #
+$CMP C0805C103M5RACTU
+F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
 $CMP C0805C104M5RACTU
 F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
 $ENDCMP
