@@ -72,6 +72,10 @@ $CMP ESQ-120-34-T-D
 F http://suddendocs.samtec.com/catalog_english/esq_th.pdf
 $ENDCMP
 #
+$CMP JST_PH_4Pos
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
 $CMP JST_SH_4Pos
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
